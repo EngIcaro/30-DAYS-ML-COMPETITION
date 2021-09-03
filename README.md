@@ -1,7 +1,7 @@
 # 30 Days of ML competition
 
 ## Descrição
-Repositório criado para resolver o desafio 30 Days of ML competition. A solução envolve quatro scripts, o primeiro (eda.py) realiza toda a parte da análise exploratória dos dados, o segundo (etl.py) faz a extração, transformação e carregamento da nova base de dados. O terceiro script é o model.py, onde é feito a criação e treinamento do modelo LightGBM, e, por último, predict.py responsável pela predição da base de teste.
+Repositório criado para resolver o desafio 30 Days of ML competition. A solução envolve quatro scripts, o primeiro (eda.py) realiza toda a parte da análise exploratória dos dados, o segundo (etl.py) faz a extração, transformação e carregamento da nova base de dados. O terceiro script é o (train.py), onde é feito a criação e treinamento do modelo LightGBM, e, por último, (test.py) responsável pela predição da base de teste.
 
 ## Instalação
 1. Baixe o arquivo zip desse repositório 
@@ -21,4 +21,4 @@ Repositório criado para resolver o desafio 30 Days of ML competition. A soluç�
 
 ## Resultado
 Nesta comeptição, consegui a posição 3729 de mais de 7500 participantes
-<img src="input/position.png" width="430" height ="600" class="center"> 
+<img src="input/position.png" class="center"> 
