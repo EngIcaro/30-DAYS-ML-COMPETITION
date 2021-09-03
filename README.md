@@ -12,7 +12,7 @@ Repositório criado para resolver o desafio 30 Days of ML competition. A soluç�
 6. Execute os scripts na seguinte ordem eda.py -> feature.py -> model.py -> predict.py
 7. Divirta-se
 
-## Técnicas e modelos utilizados
+## Técnicas e modelo utilizado
 * Label encoder
 * One-Hot encoder
 * Random Grid
