@@ -9,7 +9,7 @@ Repositório criado para resolver o desafio 30 Days of ML competition. A soluç�
 3. Navegue até o repositório onde o arquivo foi extraído e crie um ambiente virtual com `virtual env`
 4. Ative o ambiente com `source env/bin/activate`
 5. Instale a dependências com `pip install -r requirements.txt`
-6. Execute os scripts na seguinte ordem eda.py -> feature.py -> model.py -> predict.py
+6. Execute os scripts na seguinte ordem eda.py -> etl.py -> train.py -> test.py
 7. Divirta-se
 
 ## Técnicas e modelo utilizado
